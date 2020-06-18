@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "espire",
   "dependencies": {
-    "angular": "^1.7.5"
+    "angular": "^1.8.0"
   },
   "devDependencies": {
     "grunt": "^1.0.3",
